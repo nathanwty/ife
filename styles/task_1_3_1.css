@@ -1,0 +1,59 @@
+html, body, div, p, span{
+	margin:0;padding: 0;
+}
+.clearfix:after{
+	/*content:'';display:block;height:0;overflow:hidden;clear:both;*/
+	content: '';display: table;clear:both;
+}
+
+.clearfix{
+*zoom:1;
+}
+
+.box{
+	border: 1px solid #999;
+	maigin: 20px;
+	padding: 20px;
+	background: #eee;
+}
+
+.left-box{
+	float:left;
+	weight: 160px;
+	padding: 20px;
+	background: white;
+	border: 1px solid #999;
+}
+
+.team-logo{
+	border: 1px solid #999;
+	background: #eee;
+	width: 80px;
+	height: 80px;
+	display: inline-block;
+}
+
+.left-box span{
+}
+
+.center-box{
+	border: 1px solid #999;
+	padding: 20px;
+	background: white;
+	margin: 0 140px 0 220px;
+}
+
+.right-box{
+	border: 1px solid #999;
+	background: white;
+	float:right;
+	width: 120px;
+}
+
+.personal-logo{
+	weight: 80px;
+	height: 80px;
+	border: 1px solid #999;
+	margin: 20px;
+	background: #eee;
+}
