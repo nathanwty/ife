@@ -39,7 +39,7 @@
 
 }
 .nav ul>li:nth-child(6){
-	background-image: url("images/header_2.jpg");
+	background-image: url("../images/task_7/header_2.jpg");
 	background-repeat: no-repeat;
 	background-position: 18px 2px;
 }
@@ -61,7 +61,7 @@
 }
 .feature-wrap{
 	height: 690px;
-	background-image: url("images/section_1.jpg");
+	background-image: url("../images/task_7/section_1.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -156,7 +156,7 @@
 .about-down{
 	height: 290px;
 	padding-top: 50px;
-	background-image: url("images/map.jpg");
+	background-image: url("../images/task_7/map.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	font-family: "微软雅黑";
@@ -201,7 +201,7 @@
 .about-down div ul li:hover{
 	background-color: #be4e48;
 	color: #ffffff;
-	background-image: url("images/swosh.png");
+	background-image: url("../images/task_7/swosh.png");
 	background-repeat: no-repeat;
 	background-position: 10px center;
 }
@@ -217,7 +217,7 @@
 	padding-left: 12px;
 	width: 225px;
 	font-size: 12px;
-	background-image: url("images/red-arrow.png");
+	background-image: url("../images/task_7/red-arrow.png");
 	background-repeat: no-repeat;
 	background-position: 210px center;
 }
@@ -291,7 +291,7 @@
 }
 .middle-left{
 	width: 66.6%;
-	background-image: url("images/middle-left.jpg");
+	background-image: url("../images/task_7/middle-left.jpg");
 	float: left;
 	height: 100%;
 	background-size: cover;
@@ -313,7 +313,7 @@
 	width: 33.3%;
 	margin-top: 163px;
 	height: 412px;
-	background-image: url("images/point.png");
+	background-image: url("../images/task_7/point.png");
 	background-repeat: no-repeat;
 	background-position: center 300px;
 }
@@ -456,7 +456,7 @@
 	float: right;
 	width: 100%;
 	text-align: right;
-	background-image: url("images/arrow.png");
+	background-image: url("../images/task_7/arrow.png");
 	background-repeat: no-repeat;
 	background-position: 249px 8px;
 }
